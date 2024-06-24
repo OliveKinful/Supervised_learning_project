@@ -1,0 +1,1 @@
+This is a project on supervised learning, on which I centered my model on Logistic Regression, used picke to save the mode. This project focus was to explore the complex interplay of factors contributing to Asthma Disease and the ideal predictive models.
